@@ -74,6 +74,9 @@ I'm Skyler, I've been making UI's in industry for 15 years as well as hacking ar
   </a>
 </p>
 
+<h3>Previous Work Account</h3>
+<a href="https://github.com/skyler-rs" target="_blank" rel="noreferrer">@skyler-rs</a>
+
 <h3>Current Projects</h3>
 <table>
   <tr>
