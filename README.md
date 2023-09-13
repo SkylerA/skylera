@@ -1,7 +1,7 @@
 ![Header](./header.png)
 
 <h3>Hey!</h3>
-I'm Skyler, I've been making UI's in industry for 15 years as well as hacking around on personal projects whenever I get a wild idea. I gravitate towards the front end, but as a solo dev on my projects I've had a bit of experience with many areas of the stack.
+I'm Skyler, I've been making UI's in industry for 15 years as well as hacking around on personal projects whenever I get a wild idea. I gravitate towards the front end, but as a solo dev on my projects I've had experience with many areas of the stack.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
