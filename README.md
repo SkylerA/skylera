@@ -94,6 +94,15 @@ I'm Skyler, I've been making UI's in industry for 15 years as well as hacking ar
   </tr>
 </table>
 
+<h3>Frontend Slices</h3>
+I'm not very artistic, but I do have a good attention to detail and love slicing existing designs.
+You can check some of my work on <a href="https://icodethis.com/SkylerA">iCodeThis
+
+![iCodeThisImage](./ict.png)
+</a>
+
+> Note that there is no hosting on iCodeThis so the source will have some ugly stuff like embedded base64 images etc to avoid linking off the site when possible
+
 <h3>Things I love</h3>
 <p>🎵Music, 😻Animals, 🎃Horror Movies, 🎮Video Games, 🏊‍♂️Swimming Laps</p>
 
